@@ -1,0 +1,14 @@
+Chapter I Instructions
+• Only this page will serve as reference: do not trust rumors.
+• Watch out! This document could potentially change up to an hour before submis-
+sion.
+• Make sure you have the appropriate permissions on your files and directories.
+• You have to follow the submission procedures for every exercise.
+• Your exercises will be checked and graded by your fellow classmates.
+• On top of that, your exercises will be checked and graded by a program called Moulinette.
+• Moulinette is very meticulous and strict in its evaluation of your work. It is entirely automated and there is no way to negotiate with it. So if you want to avoid bad surprises, be as thorough as possible.
+• Moulinette is not very open-minded. It won’t try and understand your code if it doesn’t respect the Norm. Moulinette relies on a program called Norminator to check if your files respect the norm. TL;DR: it would be idiotic to submit a piece of work that doesn’t pass Norminator’s check.
+• These exercises are carefully laid out by order of difficulty - from easiest to hardest. We will not take into account a successfully completed harder exercise if an easier one is not perfectly functional.
+• Using a forbidden function is considered cheating. Cheaters get -42, and this grade is non-negotiable.
+• If ft_putchar() is an authorized function, we will compile your code with our ft_putchar.c.
+• You’ll only have to submit a main() function if we ask for a program.

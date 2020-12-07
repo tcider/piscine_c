@@ -1,0 +1,7 @@
+
+Don't forget check for malloc - 
+
+if ((p = (char*)malloc(......)))
+
+else
+	Error
